@@ -125,7 +125,7 @@ export const food_list = [
     price: 12,
     description:
       "Żywność dostarcza niezbędnych składników odżywczych dla ogólnego zdrowia i dobrego samopoczucia",
-    category: "Saładka",
+    category: "Sallad",
   },
   {
     _id: "2",
@@ -134,7 +134,7 @@ export const food_list = [
     price: 18,
     description:
       "Żywność dostarcza niezbędnych składników odżywczych dla ogólnego zdrowia i dobrego samopoczucia",
-    category: "Saładka",
+    category: "Sallad",
   },
   {
     _id: "3",
@@ -143,7 +143,7 @@ export const food_list = [
     price: 16,
     description:
       "Żywność dostarcza niezbędnych składników odżywczych dla ogólnego zdrowia i dobrego samopoczucia",
-    category: "Saładka",
+    category: "Sallad",
   },
   {
     _id: "4",
@@ -152,7 +152,7 @@ export const food_list = [
     price: 24,
     description:
       "Żywność dostarcza niezbędnych składników odżywczych dla ogólnego zdrowia i dobrego samopoczucia",
-    category: "Saładka",
+    category: "Sallad",
   },
   {
     _id: "5",
